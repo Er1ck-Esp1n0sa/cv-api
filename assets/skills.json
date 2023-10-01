@@ -1,0 +1,32 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "skill": "Liderazgo"
+      },
+      {
+        "id": 2,
+        "skill": "Trabajo en equipo"
+      },
+      {
+        "id": 3,
+        "skill": "Comunicación Asertiva"
+      },
+      {
+        "id": 4,
+        "skill": "Negociador"
+      },
+      {
+        "id": 5,
+        "skill": "Adaptabilidad"
+      },
+      {
+        "id": 6,
+        "skill": "Estratega"
+      },
+      {
+        "id": 7,
+        "skill": "Competitivo"
+      }
+    ]
+  }

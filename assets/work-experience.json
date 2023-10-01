@@ -1,0 +1,44 @@
+{
+    "trabajos":[
+        {
+    "id": 1,
+    "puesto": "Proyect Manager",
+    "empresa": "Microsoft",
+    "fecha_ini": "01/2020",
+    "fecha_fin": "Presente",
+    "ciudad": "Orizaba",
+    "pais": "Mexico",
+    "logros": [
+        {
+            "logro": "Desarrollo de App de Gestion De Gastos"
+        },
+        {
+            "logro": "Desarrollo de App Gubernamental"
+        },
+        {
+            "logro": "Desrrollo de una IA para organizar tu rutina"
+        }
+    ]
+},
+{
+    "id": 2,
+    "puesto": "Proyect Manager",
+    "empresa": "Dynamite",
+    "fecha_ini": "01/2020",
+    "fecha_fin": "Presente",
+    "ciudad": "Orizaba",
+    "pais": "Veracruz",
+    "logros": [
+        {
+            "logro": "Desarrollo de App de Gestion De Gastos"
+        },
+        {
+            "logro": "Desarrollo de App Gubernamental"
+        },
+        {
+            "logro": "Desrrollo de una IA para organizar tu rutina"
+        }
+        ]
+    }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "certificaciones": [
+      {
+        "id": 1,
+        "titulo": "Certificacion Python",
+        "descripcion": "Certificacion introcuccion a python en Kaggle",
+        "link": "https://firebasestorage.googleapis.com/v0/b/mycv-8a8b5.appspot.com/o/Erick%20Juarez%20Espinosa%20-%20Pandas.png?alt=media&token=908c208b-8f84-4446-a23b-bd063aa0ac30",
+        "ano": "2023"
+      },
+      {
+        "id": 3,
+        "titulo": "Certificación en Pandas",
+        "descripcion": "Certificacion de Pandas en Kaggle",
+        "link": "https://firebasestorage.googleapis.com/v0/b/mycv-8a8b5.appspot.com/o/Erick%20Juarez%20Espinosa%20-%20Python.png?alt=media&token=70ea3e17-1ce9-4f01-ac89-95b70dfc6b19",
+        "ano": "2023"
+      }
+    ]
+  }
