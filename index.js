@@ -29,11 +29,11 @@ app.get('/certifications', (req, res, next) =>{
 	res.sendfile("assets/certifications.json");
 })
 
-app.get('/proxysize', (req, res, next) =>{
+app.get('/size', (req, res, next) =>{
 	res.sendfile("assets/1a_proxy_size.json");
 })
 
-app.get('/devhours', (req, res, next) =>{
+app.get('/hours', (req, res, next) =>{
 	res.sendfile("assets/1a_dev_hours.json");
 })
 
